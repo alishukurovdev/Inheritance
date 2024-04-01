@@ -20,24 +20,27 @@ namespace ThisAndBase
             SimCards = new string[SimCardCount];
         }
 
-        public void GetNumbers()
-        {
-            Console.WriteLine("You number");
-            for (int i = 0; i < SimCards.Length; i++)
-            {
-                
-                Console.WriteLine($"{i}. {SimCards[i]}");
-            }
-        }
-
+        
         public void AddNumber(int index, string number)
         {
             Console.WriteLine("Add number");
 
             SimCards[index] = number;
             }
+        public void GetNumbers()
+        {
+            Console.WriteLine("You number");
+            for (int i = 0; i < SimCards.Length; i++)
+            {
+
+                Console.WriteLine($"{i}. {SimCards[i]}");
+            }
+        }
+
         public void RemoveNumber(int index)
         {
+            SimCards[index] = null;
+
         }
     }
 }

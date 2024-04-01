@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\ThisAndBase\\ThisAndBase.csproj": {}
+    "C:\\Users\\ca.r214.16\\Desktop\\Inheritance\\ThisAndBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\ThisAndBase\\ThisAndBase.csproj": {
+    "C:\\Users\\ca.r214.16\\Desktop\\Inheritance\\ThisAndBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\ThisAndBase\\ThisAndBase.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r214.16\\Desktop\\Inheritance\\ThisAndBase.csproj",
         "projectName": "ThisAndBase",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\ThisAndBase\\ThisAndBase.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\ThisAndBase\\obj\\",
+        "projectPath": "C:\\Users\\ca.r214.16\\Desktop\\Inheritance\\ThisAndBase.csproj",
+        "packagesPath": "C:\\Users\\ca.r214.16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca.r214.16\\Desktop\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ca.r214.16\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
